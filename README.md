@@ -1,4 +1,4 @@
-# Project Title
+# UFCstats
 
 UFC Fighter Stats GUI
 
