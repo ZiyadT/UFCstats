@@ -55,8 +55,8 @@ root = tk.Tk()
 screen_width = root.winfo_screenwidth()
 screen_height = root.winfo_screenheight()
 
-window_width = int(screen_width/2)  # 500
-window_height = int(screen_height*0.75)  # 770
+window_width = int(screen_width*500/1920)  # 500
+window_height = int(screen_height*770/1080)  # 770
 
 root.geometry(f'{window_width}x{window_height}')
 root.title('UFC Stats')
