@@ -16,6 +16,7 @@ A GUI that fetches UFC Fighter Stats from the official UFC website. Uses a web s
 ### Installing/Execution
 
 * Just download the files to the same folder and run either ufc.py or test.py
+* After you run the program, enter the name of the fighter you would like to receive stats for. For example if I wanted to receive stats for Max Holloway, I would type in "Max Holloway"
 
 ### FYI's
 
