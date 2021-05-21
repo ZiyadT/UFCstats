@@ -5,6 +5,7 @@ UFC Fighter Stats GUI
 ## Description
 
 A GUI that fetches UFC Fighter Stats from the official UFC website. Uses a web scraper and displays the scraped info with a picture of the fighter.
+![image](https://user-images.githubusercontent.com/26507579/119177153-e7375f00-ba39-11eb-94de-5512556f8ea8.png)
 
 ## Getting Started
 
@@ -18,7 +19,7 @@ A GUI that fetches UFC Fighter Stats from the official UFC website. Uses a web s
 * Just download the files to the same folder and run either ufc.py or test.py
 * After you run the program, enter the name of the fighter you would like to receive stats for. For example if I wanted to receive stats for Max Holloway, I would type in "Max Holloway"
 
-### FYI's
+### FYI's/TODO's
 
 * ufc.py is the GUI I had designed initially, most of it is hard-coded so the formatting might be compromised if it isn't run on a 1920x1080 resolution screen (make sure your screen scale is 100%)
 * test.py was created to fix the issue ufc.py was having, but problems kept popping up so I decided to take a break and work on other projects
