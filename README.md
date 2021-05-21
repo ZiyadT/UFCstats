@@ -5,6 +5,7 @@ UFC Fighter Stats GUI
 ## Description
 
 A GUI that fetches UFC Fighter Stats from the official UFC website. Uses a web scraper and displays the scraped info with a picture of the fighter.
+
 ![image](https://user-images.githubusercontent.com/26507579/119177153-e7375f00-ba39-11eb-94de-5512556f8ea8.png)
 
 ## Getting Started
